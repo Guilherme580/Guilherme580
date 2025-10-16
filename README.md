@@ -14,20 +14,19 @@ Sempre aberto a desafios e pronto para encarar mudanças.
 
 📍 Do Brasil, vivendo em constante aprendizado.  
 
-💻 Atualmente explorando:
-- Desenvolvimento Web com Flask  
-- Programação em Python  
-- Desenvolvimento de jogos com C# e Unity  
-
 ---
 
-### 📫 Onde me encontrar:
+### 🧠 Tecnologias que uso e estudo
 
-[![Twitter Badge](https://img.shields.io/badge/-@guilhermevalente-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/seu_usuario)](https://twitter.com/seu_usuario)
-[![LinkedIn Badge](https://img.shields.io/badge/-Guilherme%20Valente%20Nogueira-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/seu-perfil)
-[![Gmail Badge](https://img.shields.io/badge/-guilhermevalente@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermevalente@gmail.com)](mailto:guilhermevalente@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@guilhermevalente-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/seu_usuario)](https://instagram.com/seu_usuario)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@seucanal)](https://www.youtube.com/@seucanal)
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
+
+</div>
 
 ---
 
@@ -38,23 +37,16 @@ Sempre aberto a desafios e pronto para encarar mudanças.
   <!-- Estatísticas gerais -->
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermevalentenogueira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=guilhermevalentenogueira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 
   <!-- Linguagens mais usadas -->
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevalentenogueira&layout=compact&langs_count=8&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevalentenogueira&layout=compact&langs_count=8&theme=tokyonight"
   />
 
   <!-- Streaks (sequência de commits) -->
   <img 
     height="180em"
-    src="https://streak-stats.demolab.com?user=guilhermevalentenogueira&theme=radical&hide_border=false&border_radius=10"
-  />
-
-</div>
-
----
-
-⭐ *“A cada linha de código, um novo aprendizado.”*
+    src="https://streak-stats.demolab.com?user=guilhermevalentenogueira&theme=tokyonight-duo&hide_border=false 
