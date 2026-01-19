@@ -1,4 +1,4 @@
-# 🚀 Guilherme Valente | Software Developer & Game Scripter
+# 🚀 Guilherme Valente | Software Developer
 
 <p align="center">
   <b>Python Developer | Flask Specialist | Game Mechanics Enthusiast</b><br>
