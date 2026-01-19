@@ -17,11 +17,11 @@ Desenvolvedor focado em soluções web com **Python/Flask** e apaixonado pela cr
 ---
 
 ### 📊 Estatísticas do GitHub
-<!-- Configurado com o usuário Guilherme580 e formato PNG para evitar erros -->
+<!-- Solução 2026: Usando servidor secundário estável para evitar erro de conteúdo não imagético -->
 
-![Estatísticas de Guilherme](https://github-readme-stats.vercel.app)
+<img src="https://github-readme-stats-anuraghazra.vercel.app" />
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app)
+<img src="https://github-readme-stats-anuraghazra.vercel.app" />
 
 ---
 
