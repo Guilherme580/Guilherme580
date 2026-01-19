@@ -1,48 +1,72 @@
 # Olá, eu sou o Guilherme Valente 👋 🇧🇷
 
-Para mim, programar é a arte de transformar lógica em diversão e utilidade. Atualmente, foco em elevar meu nível em **Python** e criar mecânicas incríveis para **Jogos**.
+Desenvolvedor focado em soluções web com **Python/Flask** e apaixonado pela criação de mecânicas de jogos. Transformo café em código e ideias em experiências interativas.
 
 ---
 
-### 🚀 Tecnologias & Habilidades
+### 🛠️ Minha Stack Principal
+<!-- Usando links de imagem diretos e testados para evitar erros de renderização -->
 
-**Desenvolvimento Web (Backend & Frontend)**
-- 🐍 **Python** (Flask - Nível Intermediário/Avançado)
-- 🌐 **Web Stack** (HTML5 | CSS3)
-- 🛠️ **Ferramentas**: Git, GitHub, VS Code
-
-**Desenvolvimento de Jogos (Scripts & Lógica)**
-- 🎮 **Game Scripting**: GDScript (Alta proficiência)
-- 👾 **C#**: Desenvolvimento de jogos (Em evolução)
-
----
-
-### 🛠️ Minha Stack Visual
-<!-- Badges usando Shields.io (As mais estáveis da internet) -->
-<img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" />
-
----
-
-### 📊 Estatísticas de Código
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Estatísticas do GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app" alt="Linguagens mais usadas" />
-</div>
-
----
-
-### 📫 Vamos conversar?
-Seja para falar sobre desenvolvimento web ou trocar ideias sobre mecânicas de jogos, sinta-se à vontade para me chamar:
-
-- 💼 **LinkedIn**: [Seu Perfil Aqui](https://www.linkedin.com)
-- 📧 **E-mail**: [guilhermevalente@gmail.com](mailto:guilhermevalente@gmail.com)
-- 📸 **Instagram**: [@guilhermevalente](https://instagram.com)
+<table>
+  <tr>
+    <td align="center"><b>Web Backend</b></td>
+    <td align="center"><b>Web Frontend</b></td>
+    <td align="center"><b>Game Dev</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io" />
+      <br>
+      <img src="https://img.shields.io" />
+    </td>
+    <td>
+      <img src="https://img.shields.io" />
+      <br>
+      <img src="https://img.shields.io" />
+    </td>
+    <td>
+      <img src="https://img.shields.io" />
+      <br>
+      <img src="https://img.shields.io" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com" width="100px" alt="Game Icon">
+### 🚀 Destaques do Portfólio
+*Estes são os projetos que demonstram minha evolução técnica:*
+
+*   **[Nome do seu Projeto Flask]** - Sistema web completo integrado com banco de dados.
+*   **[Nome do seu Jogo/Script]** - Mecânicas avançadas desenvolvidas em GDScript e C#.
+
+---
+
+### 📊 Estatísticas de Contribuição
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" height="170" />
+  <img src="https://github-readme-stats.vercel.app" height="170" />
+</p>
+
+---
+
+### 📫 Onde me encontrar
+<p align="left">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io" />
+  </a>
+  <a href="mailto:guilhermevalente@gmail.com">
+    <img src="https://img.shields.io" />
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com" width="40" />
   <br>
   <i>“A cada linha de código, um novo aprendizado.”</i>
-</div>
+</p>
