@@ -1,6 +1,6 @@
 # Olá, eu sou o Guilherme Valente 👋 🇧🇷
 
-Desenvolvedor focado em soluções web com **Python/Flask** e apaixonado pela criação de jogos. Transformo lógica em experiências funcionais e divertidas.
+Desenvolvedor focado em soluções web com **Python/Flask** e apaixonado pela criação de jogos.
 
 ---
 
@@ -17,11 +17,10 @@ Desenvolvedor focado em soluções web com **Python/Flask** e apaixonado pela cr
 ---
 
 ### 📊 Estatísticas do GitHub
-<!-- Solução 2026: Usando servidor secundário estável para evitar erro de conteúdo não imagético -->
 
-<img src="https://github-readme-stats-anuraghazra.vercel.app" />
+![Status](https://github-readme-stats.vercel.app)
 
-<img src="https://github-readme-stats-anuraghazra.vercel.app" />
+![Linguagens](https://github-readme-stats.vercel.app)
 
 ---
 
