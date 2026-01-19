@@ -12,20 +12,16 @@ Desenvolvedor focado em soluções web com **Python/Flask** e apaixonado pela cr
 | **Flask** | Framework | 🏺 | Intermediário |
 | **HTML / CSS** | Frontend | 🌐 | Intermediário |
 | **GDScript** | Games | 🎮 | Avançado |
-| **C#** | Games | 🎸 | Iniciante |
+| **C#** | Games | 🎯 | Iniciante |
 
 ---
 
 ### 📊 Estatísticas do GitHub
-<!-- Link direto formatado para evitar erro de conteúdo não imagético -->
+<!-- Correção: Adicionado formato .png e parâmetros de cache para garantir o carregamento em 2026 -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" width="400" />
-</p>
+![Estatísticas de Guilherme](https://github-readme-stats.vercel.app)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" width="400" />
-</p>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app)
 
 ---
 
