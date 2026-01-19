@@ -4,32 +4,20 @@ Desenvolvedor focado em soluções web com **Python/Flask** e apaixonado pela cr
 
 ---
 
-### 🚀 Minhas Especialidades
+### 🚀 Especialidades e Habilidades
 
-*   **🐍 Python (Flask):** Desenvolvimento de nível intermediário para avançado.
-*   **💻 Web Frontend:** Criação de interfaces modernas com HTML5 e CSS3.
-*   **🎮 Game Dev:** Scripts avançados para jogos (GDScript) e C#.
-
----
-
-### 🛠️ Habilidades Técnicas
-
-| Tecnologia | Categoria | Nível |
-| :--- | :--- | :--- |
-| **Python** | Backend | Avançando |
-| **Flask** | Web Framework | Intermediário |
-| **HTML / CSS** | Frontend | Intermediário |
-| **GDScript** | Game Logic | Avançado |
-| **C#** | Game Dev | Iniciante |
+*   🐍 **Python (Flask):** Nível intermediário para avançado.
+*   💻 **Web Frontend:** Interfaces modernas com HTML5 e CSS3.
+*   🎮 **Game Dev:** Scripts avançados (GDScript) e C#.
 
 ---
 
 ### 📊 Estatísticas do GitHub
-<!-- Versão simplificada para evitar erro de conteúdo não imagético -->
+<!-- Utilizando servidor alternativo e sintaxe direta para evitar erro de cache -->
 
-![Estatísticas de Guilherme](https://github-readme-stats.vercel.app)
+https://github-readme-stats.vercel.app
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app)
+https://github-readme-stats.vercel.app
 
 ---
 
