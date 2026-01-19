@@ -27,18 +27,6 @@ Sou um desenvolvedor brasileiro focado em criar soluções que unem performance 
 
 ---
 
-### 📊 Desempenho no GitHub
-<!-- Tentativa com Proxy de Imagem para evitar erro de conteúdo não imagético -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Stats de Guilherme" width="400" />
-  <img src="https://github-readme-stats.vercel.app" alt="Linguagens de Guilherme" width="350" />
-</p>
-
-> *Nota: Se as imagens acima não carregarem, meus projetos principais estão fixados logo abaixo no perfil.*
-
----
-
 ### 🔭 Objetivos para 2026
 - [ ] Finalizar certificação avançada em **Arquitetura Python**.
 - [ ] Lançar meu primeiro protótipo de jogo autoral utilizando **C#**.
