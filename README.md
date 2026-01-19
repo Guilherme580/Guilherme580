@@ -1,49 +1,76 @@
 # Olá, eu sou o Guilherme Valente 👋 🇧🇷
 
-Tenho paixão por transformar lógica em realidade, seja através de aplicações web robustas com **Python/Flask** ou experiências imersivas em **Jogos**. Atualmente, foco na evolução para o nível avançado em Python e na maestria de scripts para games.
+<p align="center">
+  <img src="https://capsule-render.vercel.app" />
+</p>
+
+### 🚀 Sobre Mim
+Sou um desenvolvedor apaixonado por criar soluções digitais. Minha jornada envolve a construção de aplicações web robustas e a criação de mecânicas imersivas para jogos.
+- 🐍 **Python & Flask**: Nível intermediário avançando para o especialista.
+- 🌐 **Web**: HTML5 e CSS3 com foco em design responsivo.
+- 🎮 **Game Dev**: Alta proficiência em **GDScript** e expandindo conhecimentos em **C#**.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Habilidades
 
-**Desenvolvimento Web (Fullstack)**
-![Python](https://img.shields.io)
-![Flask](https://img.shields.io)
-![HTML5](https://img.shields.io)
-![CSS3](https://img.shields.io)
+<div align="left">
+  <!-- Python -->
+  <img src="https://img.shields.io" height="30" />
+  <!-- Flask -->
+  <img src="https://img.shields.io" height="30" />
+  <!-- HTML5 -->
+  <img src="https://img.shields.io" height="30" />
+  <!-- CSS3 -->
+  <img src="https://img.shields.io" height="30" />
+  <!-- C# -->
+  <img src="https://img.shields.io" height="30" />
+  <!-- Godot/GDScript -->
+  <img src="https://img.shields.io" height="30" />
+</div>
 
-**Desenvolvimento de Jogos & Scripts**
-![C#](https://img.shields.io)
-![GDScript](https://img.shields.io)
-![Unity](https://img.shields.io)
+<br />
+
+<details>
+  <summary><b>🎯 Ver mais habilidades</b></summary>
+  <ul>
+    <li>Desenvolvimento de APIs REST com Flask</li>
+    <li>Lógica de programação avançada para Jogos</li>
+    <li>Scripts de automação em Python</li>
+    <li>Versionamento com Git e GitHub</li>
+  </ul>
+</details>
 
 ---
 
-### 📂 Portfólio em Destaque
-
-| Projeto | Descrição | Tecnologias | Link |
-| :--- | :--- | :--- | :--- |
-| **Nome do Projeto 1** | Aplicação Web integrada com Flask e Banco de Dados. | Python, Flask, CSS | [Ver Repo 🔗](#) |
-| **Game Script Pro** | Sistema avançado de mecânicas em GDScript/C#. | C#, GDScript | [Ver Repo 🔗](#) |
-| **Landing Page** | Interface moderna e responsiva de alta performance. | HTML5, CSS3 | [Ver Repo 🔗](#) |
-
----
-
-### 📊 Estatísticas de Desenvolvedor
-
+### 📊 Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app" />
   <img height="180em" src="https://github-readme-stats.vercel.app" />
 </div>
 
----
-
-### 📫 Vamos construir algo juntos?
-
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
-[![Email](https://img.shields.io)](mailto:guilhermevalente@gmail.com)
-[![Instagram](https://img.shields.io)](https://instagram.com)
+<div align="center">
+  <img height="150em" src="https://streak-stats.demolab.com" />
+</div>
 
 ---
 
-> ⚡ *“A cada linha de código, um novo aprendizado.”*
+### 📫 Conecte-se Comigo
+<div align="center">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io" />
+  </a>
+  <a href="mailto:guilhermevalente@gmail.com">
+    <img src="https://img.shields.io" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://img.shields.io" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <i>“A cada linha de código, um novo aprendizado.”</i><br>
+  <img src="https://raw.githubusercontent.com" width="20px">
+</p>
