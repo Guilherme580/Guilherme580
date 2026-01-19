@@ -1,56 +1,46 @@
 # Olá, eu sou o Guilherme Valente 👋 🇧🇷
 
-Sou programador **Python** com foco em desenvolvimento web (**Flask**) e apaixonado por criar mecânicas de jogos. Transformo desafios em código limpo e funcional.
+Desenvolvedor focado em soluções web com **Python/Flask** e apaixonado pela criação de jogos. Transformo lógica em experiências funcionais e divertidas.
 
 ---
 
 ### 🚀 Minhas Especialidades
 
-#### 🐍 Web Backend
-*   **Python** (Nível Intermediário para Avançado)
-*   **Flask** (Desenvolvimento de APIs e aplicações web)
-*   **Automação** de tarefas e scripts
-
-#### 🎨 Web Frontend
-*   **HTML5** & **CSS3** (Criação de interfaces responsivas)
-*   Design focado na experiência do usuário
-
-#### 🎮 Game Development
-*   **GDScript** (Conhecimento avançado em scripts para jogos)
-*   **C#** (Estudando para desenvolvimento em motores de jogos)
-*   Lógica de programação para mecânicas e IA
+*   **🐍 Python (Flask):** Desenvolvimento de nível intermediário para avançado.
+*   **💻 Web Frontend:** Criação de interfaces modernas com HTML5 e CSS3.
+*   **🎮 Game Dev:** Scripts avançados para jogos (GDScript) e C#.
 
 ---
 
-### 🛠️ Minha Pilha de Habilidades (Stack)
+### 🛠️ Habilidades Técnicas
 
-| Tecnologia | Status | Nível |
+| Tecnologia | Categoria | Nível |
 | :--- | :--- | :--- |
-| 🐍 **Python** | Ativo | Avançando |
-| 🔥 **Flask** | Ativo | Intermediário |
-| 🌐 **HTML/CSS** | Ativo | Intermediário |
-| 🎮 **GDScript** | Ativo | Avançado |
-| 🎯 **C#** | Estudando | Básico |
+| **Python** | Backend | Avançando |
+| **Flask** | Web Framework | Intermediário |
+| **HTML / CSS** | Frontend | Intermediário |
+| **GDScript** | Game Logic | Avançado |
+| **C#** | Game Dev | Iniciante |
 
 ---
 
 ### 📊 Estatísticas do GitHub
-<!-- Estas estatísticas são geradas pelo GitHub e são as mais estáveis -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" height="170" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app" height="170" alt="Linguagens" />
-</p>
+<!-- Versão simplificada para evitar erro de conteúdo não imagético -->
+
+![Estatísticas de Guilherme](https://github-readme-stats.vercel.app)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app)
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Contato Profissional
 
-*   💼 **LinkedIn:** [Guilherme Valente Nogueira](https://www.linkedin.com)
-*   📧 **E-mail:** [guilhermevalente@gmail.com](mailto:guilhermevalente@gmail.com)
-*   📸 **Instagram:** [@guilhermevalente](https://instagram.com)
+- 💼 **LinkedIn:** [Conectar com Guilherme](https://www.linkedin.com)
+- 📧 **E-mail:** [guilhermevalente@gmail.com](mailto:guilhermevalente@gmail.com)
+- 📸 **Instagram:** [@guilhermevalente](https://instagram.com)
 
 ---
 
 <p align="center">
-  🕹️ <i>“A cada linha de código, um novo aprendizado.”</i>
+  <i>"A cada linha de código, um novo aprendizado."</i>
 </p>
