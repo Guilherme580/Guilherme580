@@ -17,11 +17,11 @@ Desenvolvedor focado em soluções web com **Python/Flask** e apaixonado pela cr
 ---
 
 ### 📊 Estatísticas do GitHub
-<!-- Correção: Adicionado formato .png e parâmetros de cache para garantir o carregamento em 2026 -->
+<!-- Solução definitiva: Link direto com cache burst para evitar erro de conteúdo não imagético -->
 
-![Estatísticas de Guilherme](https://github-readme-stats.vercel.app)
+![Estatísticas](https://github-readme-stats.vercel.app)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app)
+![Linguagens](https://github-readme-stats.vercel.app)
 
 ---
 
@@ -36,3 +36,5 @@ Desenvolvedor focado em soluções web com **Python/Flask** e apaixonado pela cr
 <p align="center">
   <i>"A cada linha de código, um novo aprendizado."</i>
 </p>
+
+
